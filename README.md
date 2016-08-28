@@ -21,7 +21,7 @@ Personalized news recommender based on click behavour
 System Archtecture 
         
  <p align="center">
-  <img src="https://github.com/tayyabsayyad/News4me-News-Recommender/blob/master/news%20arch.jpg" width="350"/>
+  <img src="https://github.com/tayyabsayyad/News4me-News-Recommender/blob/master/news%20arch.jpg" width="450"/>
 </p>
         
         
