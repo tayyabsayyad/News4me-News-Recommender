@@ -19,5 +19,14 @@ Personalized news recommender based on click behavour
         - Save news Offlile in android application.
         
         
+System Archtecture 
+        
+ ![alt tag](https://github.com/tayyabsayyad/News4me-News-Recommender/blob/master/news%20arch.jpg)
+
+        
+        
+        
+        
+        
         
         
