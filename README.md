@@ -1,7 +1,7 @@
 # News4me-News-Recommender
 Personalized news recommender based on click behavour
 
-Features -
+
         - Based on Django framework
         
         - Presonlised News based on click behaviour history
